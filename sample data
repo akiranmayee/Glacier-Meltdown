@@ -1,0 +1,8 @@
+
+Date	Temperature (°C)	Precipitation (mm)	Glacier Mass Balance (kg/m²)	Snowfall (mm)	Elevation (m)	Solar Radiation (W/m²)	Glacier Area (km²)	Glacier Thickness (m)	Season
+2021-01-01	5.2	120	300	80	2500	150	15	35	Winter
+2021-02-01	6.1	110	290	70	2450	180	14.8	34.5	Winter
+2021-03-01	8.5	90	250	60	2400	200	14.6	33	Spring
+2021-04-01	12.3	75	220	50	2350	250	14.3	32.5	Spring
+2021-05-01	16.0	50	180	30	2300	300	14.0	31.5	Summer
+2021-06-01	20.5	30	150	20	2250	350	13.5	30	Summer
