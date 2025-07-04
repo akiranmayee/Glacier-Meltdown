@@ -53,3 +53,6 @@ Key Metrics:
 MSE (Mean Squared Error): Measures the average squared difference between predicted and actual values.
 
 R-squared: Represents the proportion of variance in the target variable that the model explains.
+
+Deployment (Real-world Application):
+Once the model is trained, it can be deployed in real-time to predict glacier meltdown over the next few years. With predictions about how much the glacier will melt and how that affects water resources, stakeholders can plan for irrigation, hydropower, and other needs.
