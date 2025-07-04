@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
-from sklearn.compose import ColumnTransformer
+from sklearn.compose import ColumnTransformerhttps://github.com/akiranmayee/Glacier-Meltdown/blob/main/code.py
 from sklearn.pipeline import Pipeline
 
 # Load data
