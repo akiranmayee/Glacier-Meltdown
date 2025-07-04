@@ -1,0 +1,21 @@
+Key features for the dataset might include:
+
+Temperature (°C): The average temperature of the region over a given period.
+
+Precipitation (mm): The monthly or yearly rainfall or snow accumulation data.
+
+Glacier Mass Balance (kg/m²): A measure of the glacier's accumulation and ablation.
+
+Snowfall (mm): Monthly or yearly snowfall in the region.
+
+Elevation (meters): Elevation of the glacier or surrounding area.
+
+Season (Season type): Whether it's winter or summer (as it affects the melting rate).
+
+Solar Radiation (W/m²): Amount of solar radiation received by the glacier.
+
+Glacier Area (km²): The surface area of the glacier.
+
+Glacier Thickness (meters): How thick the glacier is at various locations.
+
+Date: Temporal feature indicating when the data was recorded.
